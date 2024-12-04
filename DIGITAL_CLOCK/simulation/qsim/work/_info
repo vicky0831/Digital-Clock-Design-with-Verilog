@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/USER/Desktop/FPGA/DIGITAL_CLOCK/simulation/qsim
+vDIGITAL_CLOCK
+!s110 1729917633
+!i10b 1
+!s100 ?meQoV8glhffHXzJ8z]571
+IQeP7dO?BXD7:Oi9573TJ42
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1729917632
+8DIGITAL_CLOCK.vo
+FDIGITAL_CLOCK.vo
+L0 32
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z3 !s108 1729917633.000000
+!s107 DIGITAL_CLOCK.vo|
+!s90 -work|work|DIGITAL_CLOCK.vo|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@d@i@g@i@t@a@l_@c@l@o@c@k
+vDIGITAL_CLOCK_vlg_vec_tst
+!s110 1729917634
+!i10b 1
+!s100 j`HChkn[K:MiiWo5>F`2]2
+IaCzA7=[nGEQ?S[l^IR]3z3
+R1
+R0
+w1729917630
+8DIGITAL_CLOCK.vwf.vt
+FDIGITAL_CLOCK.vwf.vt
+L0 30
+R2
+r1
+!s85 0
+31
+R3
+!s107 DIGITAL_CLOCK.vwf.vt|
+!s90 -work|work|DIGITAL_CLOCK.vwf.vt|
+!i113 1
+R4
+R5
+n@d@i@g@i@t@a@l_@c@l@o@c@k_vlg_vec_tst

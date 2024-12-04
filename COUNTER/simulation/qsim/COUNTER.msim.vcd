@@ -1,0 +1,460 @@
+$comment
+	File created using the following command:
+		vcd file COUNTER.msim.vcd -direction
+$end
+$date
+	Mon Nov 11 16:23:55 2024
+$end
+$version
+	ModelSim Version 10.5b
+$end
+$timescale
+	1ps
+$end
+
+$scope module COUNTER_vlg_vec_tst $end
+$var reg 1 ! clock $end
+$var reg 1 " enable $end
+$var reg 1 # mode $end
+$var reg 1 $ reset $end
+$var wire 1 % Q [7] $end
+$var wire 1 & Q [6] $end
+$var wire 1 ' Q [5] $end
+$var wire 1 ( Q [4] $end
+$var wire 1 ) Q [3] $end
+$var wire 1 * Q [2] $end
+$var wire 1 + Q [1] $end
+$var wire 1 , Q [0] $end
+
+$scope module i1 $end
+$var wire 1 - gnd $end
+$var wire 1 . vcc $end
+$var wire 1 / unknown $end
+$var tri1 1 0 devclrn $end
+$var tri1 1 1 devpor $end
+$var tri1 1 2 devoe $end
+$var wire 1 3 ~QUARTUS_CREATED_GND~I_combout $end
+$var wire 1 4 clock~input_o $end
+$var wire 1 5 clock~inputCLKENA0_outclk $end
+$var wire 1 6 Add0~1_sumout $end
+$var wire 1 7 reset~input_o $end
+$var wire 1 8 enable~input_o $end
+$var wire 1 9 Q[0]~0_combout $end
+$var wire 1 : Q[0]~reg0_q $end
+$var wire 1 ; mode~input_o $end
+$var wire 1 < Add0~2 $end
+$var wire 1 = Add0~5_sumout $end
+$var wire 1 > Q[1]~reg0_q $end
+$var wire 1 ? Add0~6 $end
+$var wire 1 @ Add0~9_sumout $end
+$var wire 1 A Q[2]~reg0_q $end
+$var wire 1 B Add0~10 $end
+$var wire 1 C Add0~13_sumout $end
+$var wire 1 D Q[3]~reg0_q $end
+$var wire 1 E Add0~14 $end
+$var wire 1 F Add0~17_sumout $end
+$var wire 1 G Q[4]~reg0_q $end
+$var wire 1 H Add0~18 $end
+$var wire 1 I Add0~21_sumout $end
+$var wire 1 J Q[5]~reg0_q $end
+$var wire 1 K Add0~22 $end
+$var wire 1 L Add0~25_sumout $end
+$var wire 1 M Q[6]~reg0_q $end
+$var wire 1 N Add0~26 $end
+$var wire 1 O Add0~29_sumout $end
+$var wire 1 P Q[7]~reg0_q $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+1"
+0#
+1$
+0,
+0+
+0*
+0)
+0(
+0'
+0&
+0%
+0-
+1.
+x/
+10
+11
+12
+03
+04
+05
+16
+17
+18
+19
+0:
+0;
+0<
+0=
+0>
+0?
+0@
+0A
+0B
+0C
+0D
+0E
+0F
+0G
+0H
+0I
+0J
+0K
+0L
+0M
+0N
+0O
+0P
+$end
+#20000
+1!
+14
+15
+#40000
+0!
+04
+05
+#60000
+1!
+14
+15
+#80000
+0!
+04
+05
+#100000
+1!
+14
+15
+#120000
+0!
+04
+05
+#140000
+1!
+14
+15
+#160000
+0!
+04
+05
+#180000
+1!
+14
+15
+#200000
+0!
+04
+05
+#220000
+1!
+14
+15
+#240000
+0$
+0!
+07
+04
+05
+#260000
+1!
+14
+15
+1:
+1,
+1<
+06
+1=
+#280000
+0!
+04
+05
+#300000
+1!
+14
+15
+1>
+0:
+0,
+1+
+0<
+1?
+16
+0=
+0?
+1=
+1@
+0@
+#320000
+0!
+04
+05
+#340000
+1!
+14
+15
+1:
+1,
+1<
+06
+1?
+0=
+1@
+#360000
+0!
+04
+05
+#380000
+1!
+14
+15
+1A
+0>
+0:
+0,
+0+
+1*
+0<
+0?
+1B
+16
+1=
+0@
+0B
+0=
+1@
+1C
+0C
+#400000
+1$
+0!
+17
+04
+05
+#420000
+1!
+14
+15
+0A
+0*
+0@
+#440000
+0!
+04
+05
+#460000
+1!
+14
+15
+#480000
+0$
+0!
+07
+04
+05
+#500000
+1!
+14
+15
+1:
+1,
+1<
+06
+1=
+#520000
+0!
+04
+05
+#540000
+1!
+14
+15
+1>
+0:
+0,
+1+
+0<
+1?
+16
+0=
+0?
+1=
+1@
+0@
+#560000
+0!
+04
+05
+#580000
+1!
+14
+15
+1:
+1,
+1<
+06
+1?
+0=
+1@
+#600000
+0!
+04
+05
+#620000
+1!
+14
+15
+1A
+0>
+0:
+0,
+0+
+1*
+0<
+0?
+1B
+16
+1=
+0@
+0B
+0=
+1@
+1C
+0C
+#640000
+1$
+0!
+17
+04
+05
+#660000
+1!
+14
+15
+0A
+0*
+0@
+#680000
+0!
+04
+05
+#700000
+1!
+14
+15
+#720000
+0!
+04
+05
+#740000
+1!
+14
+15
+#760000
+0!
+04
+05
+#780000
+1!
+14
+15
+#800000
+0$
+0!
+07
+04
+05
+#820000
+1!
+14
+15
+1:
+1,
+1<
+06
+1=
+#840000
+0!
+04
+05
+#860000
+1!
+14
+15
+1>
+0:
+0,
+1+
+0<
+1?
+16
+0=
+0?
+1=
+1@
+0@
+#880000
+0!
+04
+05
+#900000
+1!
+14
+15
+1:
+1,
+1<
+06
+1?
+0=
+1@
+#920000
+0!
+04
+05
+#940000
+1!
+14
+15
+1A
+0>
+0:
+0,
+0+
+1*
+0<
+0?
+1B
+16
+1=
+0@
+0B
+0=
+1@
+1C
+0C
+#960000
+1$
+0!
+17
+04
+05
+#980000
+1!
+14
+15
+0A
+0*
+0@
+#1000000
