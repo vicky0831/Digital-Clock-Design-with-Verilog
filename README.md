@@ -1,1 +1,1 @@
-### Digital-Clock-Design-With-Verilog
+# Digital-Clock-Design-With-Verilog
