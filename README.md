@@ -14,21 +14,6 @@ This project implements a fully functional **⏱️ digital clock** using 🔤 V
 ### 1️⃣ **Binary to BCD Converter (`BINARY2BCD`)
 🔄 Converts an 8️⃣-bit binary number to its 🔢 decimal representation in Binary-Coded Decimal (BCD) format for display purposes.
 
-###  **Counter (`COUNTER`)
-➕➖ Counts up or down based on the `mode` input.
-
-#### ⚙️ Parameters:
-- `N`: Configurable bit-width of the counter.
-
-#### 🔌 Inputs:
-- `clock`: ⏲️ Clock signal.
-- `reset`: 🔄 Resets the counter to 0️⃣.
-- `enable`: ✅ Enables counting.
-- `mode`: 0️⃣ for counting up, 1️⃣ for counting down.
-
-#### 🔋 Outputs:
-- `Q`: Counter value.
-
 ### 2️⃣ **1-Second Delay Generator (`DELAY_1SECOUND`)
 ⏳ Generates a 1️⃣ Hz clock signal from a ⏲️ 50 MHz input clock using a cascade of 🔁 frequency dividers.
 
