@@ -12,3 +12,5 @@ simulation/
 *.cmd
 *.csv
 *.bak
+*.qsf
+*.qpf
