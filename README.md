@@ -27,7 +27,7 @@ This project implements a fully functional **⏱️ digital clock** using 🔤 V
 🔄 Integrates all modules to create the final ⏱️ digital clock system with display output.
 
 ## 🛠️ Simulation and Testing
-The system has been tested using 🖥️ simulation tools to ensure ✅ accuracy and functionality. All modules were tested individually and 🔗 integrated to validate overall performance. (Quartus Prime Lite and the DE10-Standard Terasic board)
+The system was tested using FPGA simulation tools (Quartus Prime Lite) and the DE10-Standard Terasic FPGA board to ensure accuracy and functionality. Each module underwent individual testing, followed by integration testing to validate the overall system performance.
 
 ## 🛠️ Applications
 - 🔲 FPGA-based ⏰ digital clocks.
